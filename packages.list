@@ -5,4 +5,8 @@ OpenCore-0.5.9-RELEASE.zip
 VirtualSMC-1.1.4-RELEASE.zip
 WhateverGreen-1.4.0-RELEASE.zip
 
-HfsPlus.efi Latest commit 192ed42 on Mar 1
+HfsPlus.efi commit 192ed42bfd5a7985bcca1a69fedd8d152e3afd92
+SSDT-PNLF-CFL.dsl.zip   commit 0c2d4b492d9ca1eec1280251af0218598532ccc5
+SSDT-GPI0.dsl   commit d65758d8b95899e36c61962de45bb823fb4f84d9
+SSDT-PLUG.dsl   commit d09762e745f8ba9f54de77f90baa03909ca1a997
+SSDT-EC-USBX.dsl    commit a825da4e566bba827f0c462d598eaa2b2f0b84f4
